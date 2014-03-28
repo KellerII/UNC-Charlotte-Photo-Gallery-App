@@ -1,0 +1,18 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/grid_layout_margin"
+    android:paddingLeft="@dimen/grid_layout_margin"
+    android:paddingRight="@dimen/grid_layout_margin"
+    android:paddingTop="@dimen/grid_layout_margin"
+    tools:context=".GalleryActivity" >
+
+    <GridLayout
+        android:id="@+id/GridLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </GridLayout>
+
+</ScrollView>
