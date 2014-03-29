@@ -1,6 +1,5 @@
 /*
  * James Keller
- * Kenneth Holsey
  * ITCS 4180 - 091
  * HW4
  * 3/25/14
